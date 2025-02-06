@@ -92,7 +92,6 @@
       - [Log Analytics](#log-analytics)
     - [3. Monitoring Tools Integration](#3-monitoring-tools-integration)
     - [Summary](#summary)
-  - [**Module**](#module)
 
 ## **Module 1: Cloud Concepts**
 
@@ -1189,5 +1188,3 @@ Azure monitoring tools integrate with third-party services and offer rich capabi
 ---
 
 <br>
-
-## **Module**
